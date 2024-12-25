@@ -1,0 +1,15 @@
+Arch Linux
+Red Hat
+CentOS
+AlmaLinux
+Rocky Linux
+Fedora
+Debian
+Scientific Linux
+OpenSuse
+Ubuntu
+Xubuntu
+Linux Mint
+Deepin Linux
+Slackware
+Mandriva
